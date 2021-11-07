@@ -278,7 +278,7 @@ footer.second p, .second a {
   }
 
   .one-third {
-    float: right;
+    float: left;
     width: 100%;
 
   }
