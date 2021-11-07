@@ -231,7 +231,7 @@ footer {
   text-align: center;
   margin: 0;
 }
-footer.second p, .second a {
+.footer-second p, .footer-second a {
   text-align: center;
   color: #ffffff;
   font-size: 160%;
